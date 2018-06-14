@@ -25,6 +25,7 @@ log using "L:\TX21st CCLC Evaluation 2017_2020\T3_Data management and analysis\Y
 set more off
 
 **Import data and save as .dta files for quicker examination
+**ADD in new text
 
 //begin with attendance files
 insheet using "${rpath}attend15.csv", clear
